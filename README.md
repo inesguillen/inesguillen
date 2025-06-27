@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Inés Guillén
+## Hi, I’m Inés 👋
+
 - 👀 I’m interested in software development, system architecture and cryptography.
 - 🌱 I’m currently learning about machine learning, distributed systems, and compilers.
 - 💞️ I’m looking to collaborate on open-source projects or academic initiatives related to systems programming or security.
